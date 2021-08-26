@@ -1,0 +1,119 @@
+body{
+	background-color: white;
+
+}
+main{
+	padding: 4px;
+	background-color: whitesmoke;
+	border: 1px solid lightgray;
+	height: 100%;
+}
+nav{
+	padding: 4px;
+	text-align: center;
+	background-color: #8185D0;
+}
+
+a{
+	color: black;
+}
+.a1{
+	text-decoration: none;
+	padding: 15px;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+.button{
+	text-decoration: none;
+	border: 1px solid white;
+	background-color: #8185D0;
+	color: white;
+	padding: 8px;
+	border-radius: 4px;
+	transition-duration: 0.2s;
+}
+.button:hover{
+	padding: 6px;
+}
+.noclick{
+	pointer-events: none;
+	opacity: 0.5;
+	
+}
+
+table,th,tr{
+	border: 1px solid black;
+	
+}
+
+.desc{
+	font-weight: normal;
+	width: 40%;
+	
+}
+
+.venue{
+	font-weight: normal;
+	width: 15%;
+}
+
+.date1{
+	font-weight: normal;
+	width: 20%;
+	
+}
+
+.title{
+	font-weight: normal;
+	width: 15%;
+}
+.option{
+	font-weight: normal;
+	width: 30%;
+	padding: 16px;
+	
+}
+textarea{
+	
+	
+}
+
+h1{
+	text-align: center;
+}
+
+footer{
+	font-size: 12px;
+	
+}
+
+img{
+	
+}
+
+.icon{
+	width: auto;
+	height: 10%;
+	position: absolute;
+	
+}
+input{
+	
+	
+}
+.button1{
+	font-family: san serif;
+	font-size: 16px;
+	text-decoration: none;
+	border: 1px solid white;
+	background-color: #8185D0;
+	color: white;
+	padding: 8px;
+	border-radius: 4px;
+	transition-duration: 0.2s;
+	cursor: pointer;
+}
+.button1:hover{
+	padding: 6px;
+}
