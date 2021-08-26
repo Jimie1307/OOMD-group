@@ -10,4 +10,4 @@ It is A LOT and that is because I just realised (from a convo I had with a senio
 
 ## What does this website/system supposed to do?
 Supposedly to provide a platform for charity organizations to post their events, and collect participants. The organizations need to request to be a part of the system.
-<br> To be fiar, I do not remember much because it is a lot.
+<br> To be fair, I do not remember much because it is a lot.
